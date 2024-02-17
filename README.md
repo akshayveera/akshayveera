@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Food Bell](https://foodbell-akshay.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript and Node**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **JavaScript and React**
 
 - 📫 How to reach me **akshayveera09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UrNP0sST7kHEbaIeFwh2qS15It7QyZ4x/view?usp=drive_link](https://drive.google.com/file/d/1UrNP0sST7kHEbaIeFwh2qS15It7QyZ4x/view?usp=drive_link)
+- 📄 Know about my experiences [click for resume](https://drive.google.com/file/d/1Cr0TIhMvukF2pH0zd5gDNgb_E4JNPvyI/view?usp=drive_link)
 
 - ⚡ Fun fact **A fierce battle is raging between React and Angular in the dynamic realm of web development!**
 
