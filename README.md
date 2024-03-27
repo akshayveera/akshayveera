@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Food Bell](https://foodbell-akshay.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Backend (Node.js, Express, MongoDB)**
 
 - 💬 Ask me about **JavaScript and React**
 
